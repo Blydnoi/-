@@ -1,0 +1,11 @@
+body {
+    background: url(../img/ad11f47a520cae19abd13daade95be04.jpg);
+    background-repeat: no-repeat;
+    /*background-size: 100%;*/
+    background-size: 1300px;
+}
+
+.tuxt {
+    font-family: 'Oswald', sans-serif;
+    margin: 749px 418px 0;
+}

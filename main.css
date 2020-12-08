@@ -1,0 +1,47 @@
+body {
+    background: url(img/f1bf9bb21a8f62fd69a223fd90f02222.jpg);
+    background-repeat: no-repeat;
+    /*background-size: 100%;*/
+    background-size: 1300px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    margin: 120px 140px 10px;
+    color: black;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.pidor {
+    margin: 120px 140px 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+.form_tuk {
+    margin: 20px 140px 0;
+    font-family: 'Oswald', sans-serif;
+    outline: none;
+    background-color: black;
+    text-decoration: none;
+    /*border: none; */
+}   
+ 
+.pupi {
+    color: white;
+    outline: none;
+    text-decoration: none;
+}
+
+
+.one {
+   /* margin: -93px 0 0;*/
+}
+
+
+.two {
+    margin: 0 0 0;
+}
